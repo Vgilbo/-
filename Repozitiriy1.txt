@@ -1,1 +1,2 @@
 Nachinay obuchenie v git
+Dobavil vtoruy strochku
